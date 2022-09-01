@@ -1,1 +1,1 @@
-Move the file betty
+delete file betty
